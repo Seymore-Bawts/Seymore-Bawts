@@ -1,16 +1,17 @@
-## Hi there 👋
+# Seymore Bawts
 
-<!--
-**Seymore-Bawts/Seymore-Bawts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer focused on creating simple, robust, and effective tools.
 
-Here are some ideas to get you started:
+### Core Philosophy
+* **Simplicity over Complexity**: The most effective solution is often the most direct.
+* **Automation as a Force Multiplier**: Automate everything that can be automated, from development workflows to deployment.
+* **Pragmatism**: Adherence to principles is important, but solving the problem is paramount.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology Stack
+My work primarily revolves around the following technologies:
+* **Languages**: Python, Go
+* **Infrastructure & DevOps**: Docker, Ansible, GitHub Actions, Terraform
+* **Databases**: PostgreSQL, Redis
+
+### Contact
+For inquiries, you can reach me at: `seymore.bawts@proton.me`
